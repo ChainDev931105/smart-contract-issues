@@ -8,7 +8,7 @@
 | [H-4](#H-4) | | |
 | [H-5](#H-5) | | |
 | [M-1](#M-1) | Using front-running a malicious user can stop admin's activity | [Code4Rena / Wenwin](https://code4rena.com/reports/2023-03-wenwin/#m-01-undermining-the-fairness-of-the-protocol-in-swapsource-and-possibilities-for-stealing-a-jackpot) |
-| [M-2](#M-2) | | |
+| [M-2](#M-2) | When checking block.timestamp, need to take care between > and >= | [Code4Rena / Wenwin](https://code4rena.com/reports/2023-03-wenwin/#m-04-possibility-to-steal-jackpot-bypassing-restrictions-in-the-executedraw) |
 | [M-3](#M-3) | | |
 | [M-4](#M-4) | | |
 | [M-5](#M-5) | | |
